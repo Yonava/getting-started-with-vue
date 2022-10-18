@@ -1,24 +1,2 @@
-# my_first_project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### The Slide Show That Goes Along With This Project
+[Getting Started with Vue - Google Slide](https://docs.google.com/presentation/d/1795WMvUBEXQw5YZgIAdybQYZPTXwY5rKZ9Kvl66_PJM/edit?usp=sharing)
